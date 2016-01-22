@@ -1,6 +1,6 @@
 name: 'Frank Manley & Associates'
 favicon: null
-layout_spectrum: 0.29707
+layout_spectrum: 0.32044
 typography_spectrum: 0.36783689307048917
 title: Keller Williams Capital Properties
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.625
   lightness: 0.2629642409738153
   saturation: 0.1316304998472333
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
